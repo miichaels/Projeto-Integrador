@@ -1,7 +1,7 @@
-# Projeto_vida
+# Projeto_vida - Back-end
 -> Deploy e Documentação do projeto
 
-https://projetovida.herokuapp.com/   
+https://projeto-int.herokuapp.com/  
 
 Login: root
 
